@@ -1,0 +1,25 @@
+{
+  "name": "file-icons",
+  "version": "0.0.0",
+  "description": "Icons for File Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/file-icons.git"
+  },
+  "keywords": [
+    "font",
+    "icon",
+    "file",
+    "programming"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/file-icons/issues"
+  },
+  "homepage": "https://github.com/basarat/file-icons#readme"
+}
