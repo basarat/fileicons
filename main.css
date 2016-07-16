@@ -1,0 +1,34 @@
+@font-face {
+  font-family: mfizz;
+  src: url("./fonts/mfizz.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: icomoon;
+  src: url("./fonts/icomoon.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: devicons;
+  src: url("./fonts/devicons.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: octicons;
+  src: url("./fonts/octicons.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: fileicons;
+  src: url("./fonts/fileicons.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
