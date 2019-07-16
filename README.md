@@ -1,4 +1,7 @@
 # Docs
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/basarat/fileicons.svg)](https://greenkeeper.io/)
+
 This is to consolidate file-icons for use in `alm`.
 
 # Usage
